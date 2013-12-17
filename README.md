@@ -3,8 +3,10 @@ msp-ledbar
 msp-ledbar - Libraries for grove led bar by seeed studio. Ported from the libraries for Arduino provided by seeed studio.
 https://github.com/Seeed-Studio/Grove_LED_Bar
 
-ported by Mahesh M
-http:// blogofmahe.wordpress.com
+ported by Mahesh M 
+
+http:// blogofmahe.wordpress.com 
+
 maheshmohan93@gmail.com
 
 
